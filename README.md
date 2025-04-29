@@ -2,21 +2,23 @@
 
 ![Powerline for bash, ash, PowerShell, and cmd](powerline.svg)
 
+## Installation
+
 Ensure you use a font that supports Powerline characters, such as [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
-## Bash
+### bash
 
 Add the contents of the `bash/powerline.sh` script to your `~/.bashrc` file.
 
 Customize the variables (e.g., label and color). You can use the `bash/colors.sh` script to select a color.
 
-## Ash (e.g., OpenWrt)
+### ash (e.g., OpenWrt)
 
 Add the contents of the `ash/powerline.sh` script to your `~/.profile` file.
 
 Customize the label and color. You can use the `bash/colors.sh` script to select a color.
 
-## PowerShell
+### PowerShell
 
 First, enable the execution of PowerShell scripts (including profiles) by running the following command as an administrator:
 
@@ -43,7 +45,7 @@ pwsh -NoLogo # newer PowerShell
 powershell -NoLogo # legacy PowerShell
 ```
 
-## cmd
+### cmd
 
 Save the `cmd\prompt.cmd` file somewhere on your disk. Then, update the command line in your `cmd` profile within your Terminal application as follows:
 
