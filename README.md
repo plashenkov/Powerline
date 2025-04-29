@@ -53,10 +53,10 @@ Save the `cmd\prompt.cmd` file somewhere on your disk. Then, update the command 
 cmd /k "C:\path\to\prompt.cmd"
 ```
 
-## Credits
-
-- [Yuri Plashenkov](https://plashenkov.com)
-
 ## License
 
-This package is licensed under the [MIT license](LICENSE.md).
+MIT license. See [LICENSE.md](LICENSE.md).
+
+## Credits
+
+- Yuri Plashenkov (https://plashenkov.com, https://github.com/plashenkov), author.
