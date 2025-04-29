@@ -59,4 +59,4 @@ MIT license. See [LICENSE.md](LICENSE.md).
 
 ## Credits
 
-- Yuri Plashenkov (https://plashenkov.com, https://github.com/plashenkov), author.
+- Yuri Plashenkov (https://plashenkov.com), author.
