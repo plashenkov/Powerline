@@ -16,7 +16,7 @@ Customize the variables (e.g., label and color). You can use the `bash/colors.sh
 
 Add the contents of the `ash/powerline.sh` script to your `~/.profile` file.
 
-Customize the label and color. You can use the `bash/colors.sh` script to select a color.
+Customize the variables (e.g., label and color). You can use the `bash/colors.sh` script to select a color.
 
 ### PowerShell
 
