@@ -12,9 +12,9 @@ Add the contents of the `bash/powerline.sh` script to your `~/.bashrc` file.
 
 Customize the variables (e.g., label and color). You can use the `bash/colors.sh` script to select a color.
 
-### ash (e.g., OpenWrt)
+### ash (e.g., Alpine Linux, OpenWrt)
 
-Add the contents of the `ash/powerline.sh` script to your `~/.profile` file.
+Add the contents of the `ash/powerline.sh` (or `ash/powerline-mini.sh`) script to your `~/.profile` file.
 
 Customize the variables (e.g., label and color). You can use the `bash/colors.sh` script to select a color.
 
